@@ -22,7 +22,6 @@ function App() {
       <Instructions />
       <hr />
       <Nutrition />
-      <hr />
     </>
   );
 }
