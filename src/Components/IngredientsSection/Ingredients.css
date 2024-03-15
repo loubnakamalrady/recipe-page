@@ -1,0 +1,22 @@
+.ingredientsContainer {
+  font-family: "Young Serif", serif;
+  color: #854632;
+}
+
+.ingredients-actual {
+  font-family: "Outfit", sans-serif;
+  text-indent: 1.5em;
+  color: #5f564d;
+}
+
+ul li::marker {
+  color: #854632;
+  font-size: smaller;
+}
+
+@media (max-width: 763px) {
+  .ingredients-actual {
+    text-indent: 0;
+    /* text-decoration-color: #854632; */
+  }
+}

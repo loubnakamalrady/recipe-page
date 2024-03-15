@@ -1,0 +1,28 @@
+.Preparation-Container {
+  background-color: #fff7fb;
+  padding: 1.5em;
+  border-radius: 1em;
+  font-size: larger;
+}
+
+.preparation-title {
+  padding-left: 0.75em;
+  color: #7a284e;
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+}
+.actual-prep {
+  padding-left: 1em;
+  text-indent: 1.5em;
+  color: #5f564d;
+  font-family: "Outfit", sans-serif;
+}
+
+@media (max-width: 768px) {
+  .Preparation-Container {
+    padding: 1em;
+  }
+  .actual-prep li {
+    text-indent: 0em;
+  }
+}

@@ -1,0 +1,19 @@
+.instructionsContainer h2 {
+  font-family: "Young Serif", serif;
+  color: #854632;
+}
+
+.actual-instructions {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  color: #5f564d;
+}
+
+.actual-instructions strong {
+  font-weight: 600;
+}
+
+ol li::marker {
+  color: #854632;
+  font-weight: bolder;
+}

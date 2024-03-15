@@ -1,0 +1,21 @@
+.nutritionContainer h2 {
+  font-family: "Young Serif", serif;
+  color: #854632;
+}
+
+.actualNuts {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Outfit", sans-serif;
+  color: #5f564d;
+}
+
+.unstyled-list {
+  list-style-type: none;
+}
+
+#itemCount {
+  font-weight: 700;
+  color: #854632;
+}

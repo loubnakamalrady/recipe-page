@@ -1,0 +1,18 @@
+.sectionContainer h1 {
+  font-family: "Young Serif", serif;
+  color: #312e2c;
+}
+
+.sectionContainer p {
+  font-family: "Outfit", sans-serif;
+  color: #5f564d;
+}
+
+
+
+@media (max-width: 753px) {
+  .sectionContainer {
+    padding: 0 1.5em;
+    margin-bottom: 1em;
+  }
+}
